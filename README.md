@@ -4,8 +4,7 @@ Aspiring Data Scientist passionate about turning raw data into real insights.
 I love building ML models, visualizing trends, and solving problems that actually matter. 
 Currently building end-to-end ML projects with Python, scikit-learn, and Streamlit — from data cleaning to deployment.
 
-🎯 Focus Areas: Predictive Modeling, Recommendation Systems · Computer Vision · Data-Driven Insights, NLP.
-💡 Always exploring ways to make data tell better stories.
+
 
 
 ## 🌐 Socials:
