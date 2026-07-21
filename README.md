@@ -1,6 +1,6 @@
 # Hi, I'm Nihal Siddiqui 👋
 
-### Aspiring Data Scientist | Machine Learning Engineer | GenAI Enthusiast
+### Aspiring AI Engineer | Machine Learning Engineer | GenAI Enthusiast
 
 I build end-to-end Machine Learning and Generative AI applications, from data ingestion and model development to deployment and monitoring.
 
