@@ -2,7 +2,7 @@
 
 ### Aspiring AI Engineer | Machine Learning Engineer | GenAI Enthusiast
 
-🌐 [Portfolio](https://your-vercel-url.vercel.app)
+🌐 [Portfolio](https://nihalsiddiqui-ten.vercel.app/)
 📧 nihalsiddiqui.mail@gmail.com
 💼 [LinkedIn](https://linkedin.com/in/nihal-siddiqui-49593b268)
 
