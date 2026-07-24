@@ -2,6 +2,10 @@
 
 ### Aspiring AI Engineer | Machine Learning Engineer | GenAI Enthusiast
 
+🌐 [Portfolio](https://your-vercel-url.vercel.app)
+📧 nihalsiddiqui.mail@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/nihal-siddiqui-49593b268)
+
 I build end-to-end Machine Learning and Generative AI applications, from data ingestion and model development to deployment and monitoring.
 
 Currently focused on:
@@ -42,21 +46,6 @@ Developed an end-to-end machine learning pipeline to predict customer churn usin
 * Hyperparameter tuning
 * Model evaluation and comparison
 * Business-focused insights
-
----
-
-### 🔹 Movie Recommendation System
-
-Built a content-based recommendation engine using movie metadata and similarity search.
-
-**Highlights**
-
-* Recommendation engine
-* NLP-based feature extraction
-* Interactive Streamlit application
-* Deployed web application
-
----
 
 
 ## 🛠 Tech Stack
